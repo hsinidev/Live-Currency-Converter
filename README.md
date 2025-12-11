@@ -1,6 +1,6 @@
 # 🪙 Live Currency Converter (Doodax.com)
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com/tools/live-currency-converter/index.html)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
