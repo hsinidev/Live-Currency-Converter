@@ -1,0 +1,5 @@
+{
+  "name": "Live Currency Converter",
+  "description": "A sleek and modern currency converter that provides reliable, up-to-date exchange rates sourced from the European Central Bank via the Frankfurter API. Convert between major global currencies with a clean and intuitive interface.",
+  "requestFramePermissions": []
+}
