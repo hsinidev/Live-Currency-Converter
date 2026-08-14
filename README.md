@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Live Currency Converter
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Live%20Currency%20Converter&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Live Currency Converter Header Banner" />
+
+  <h1>🚀 Live Currency Converter</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Live-Currency-Converter"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Live Currency Converter** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,75 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# 🪙 Live Currency Converter (Doodax.com)
-
-
-**Doodax** is a state-of-the-art financial application designed to provide real-time currency conversion with a focus on user experience, speed, and aesthetic immersion. Built with modern web technologies, it features a unique galaxy-themed interface and a robust educational hub.
-
-## ✨ Key Features
-
--   **Cosmic UI Experience**: An animated, multi-colored nebula background with glassmorphism effects creates a unique, stress-free environment for financial tasks.
--   **Real-Time Precision**: Sourced directly from the European Central Bank via the Frankfurter API for institutional-grade accuracy.
--   **SEO Powerhouse**: Fully optimized with JSON-LD Schema, meta tags, sitemaps, and structured content for maximum search engine visibility.
--   **Modal Architecture**: Instant access to legal and informational pages (About, Contact, Privacy, Terms) via high-performance pop-ups.
--   **Educational Blog**: A built-in CMS-lite system for rendering rich articles with Table of Contents and FAQs.
--   **Privacy First**: No tracking, no data storage, and no registration required.
-
-## 📂 Project Structure
-
-```bash
-/
-├── components/          # React Components
-│   ├── CurrencyInput.tsx    # Intelligent currency selector & input
-│   ├── ExpandableArticle.tsx# High-performance SEO content wrapper
-│   ├── Header.tsx           # Navigation & Modal Triggers
-│   ├── Footer.tsx           # Footer with Legal Links
-│   ├── Modal.tsx            # Reusable Pop-up System
-│   ├── HomePageContent.tsx  # Main Landing Page SEO Content
-│   ├── ResultDisplay.tsx    # Conversion Result View
-│   └── ...                  # Static Pages (About, Contact, etc.)
-├── services/            # API & Business Logic
-│   ├── geminiService.ts     # Currency Data Fetcher
-│   └── blogPosts.ts         # Blog Content Data
-├── public/              # Static Assets & SEO Files
-│   ├── favicon.svg          # Brand Icon
-│   ├── robots.txt           # Crawler Directives
-│   └── sitemap.xml          # Site Structure
-├── App.tsx              # Application Entry & Routing Logic
-├── index.html           # HTML Root & Global CSS Animations
-└── types.ts             # TypeScript Type Definitions
-```
-
-## 🚀 Live Demo
-
-Experience the application live: [**doodax.com**](https://doodax.com/)
-
-## 🛠️ Installation & Setup
-
-1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/hsinidev/doodax.git
-    ```
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-3.  **Run development server**
-    ```bash
-    npm start
-    ```
-
-
-**Powered by HSINI MOHAMED**
--   GitHub: [@hsinidev](https://github.com/hsinidev)
--   Email: hsini.web@gmail.com
-
----
-*© 2024 Doodax. All rights reserved.*
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
